@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+body{
+    background: url(img/fon.png) no-repeat 50% 0 #e4e9f1;
+    font-size:16px;
+    font-family: "OpenSans";
+    color: white;
+}
+.wrapper{
+    width: 1215px;
+    margin: 0 auto;}
+header{
+    height: 39;
+}
+.tel{
+    font-size: 19px;
+}
+    header h1{
+    margin: 25px
+}    
+nav{
+    float: right;
+    
+}
+nav li{
+    float: right;
+    margin: 15px 25px 0 20px;
+    
+    }
+Ol{
+    width: 950px;
+    font-size:20px;
+    margin: 0 0 0 0px;
+}    
